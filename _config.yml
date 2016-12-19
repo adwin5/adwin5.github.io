@@ -1,2 +1,3 @@
 name: Adwin likes clean code
 theme: jekyll-theme-hacker
+permalink: /blog/:year/:month/:day/:title
